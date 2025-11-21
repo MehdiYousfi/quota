@@ -4,8 +4,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        azuma: {
-          gold: '#F4B93B',
+        quota: {
+          red: '#DC2626',
+          yellow: '#FCD34D',
           black: '#000000',
           white: '#FFFFFF',
         },
